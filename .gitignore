@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-# Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
 HELP.md
 .gradle
 build/
